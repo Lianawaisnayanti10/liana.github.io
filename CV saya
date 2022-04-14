@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <!--eksternal-->
+        <link rel="stylesheet" href="style.css">
+        <title>CURRICULUM VITAE</title>
+    </head>
+    <body>
+        <h1 align="center">Ni Putu Ayu Liana Waisnayanti</h1>
+    <hr>
+        <center><img src="aristaaa.jpeg" width="250px" height="250px"></center>
+    <hr>
+    <div id="container1">
+        <p>TENTANG SAYA</p>
+    </div>
+        <p>Halo, perkenalkan saya Ni Putu Ayu Liana Waisnayanti akrab disapa Liana. Saya merupakan mahasiswi semester VI jurusan Ekonomi Pembangunan Universitas Udayana. Saat ini saya mengikuti Program Merdeka Belajar Kampus Merdeka yaitu Studi Independen Bersertifikat (SIB) SEAL AWS. Salam kenal semua! ^.^ </p>
+    <hr>
+    <div id="container2">
+        <p>KEAHLIAN</p>
+    </div>
+    <ol>
+        <li>Financial Planner</li>
+        <li>Business Development</li>
+        <li>Digital Marketing</li>
+    </ol>
+    <hr>
+    <div id="container3">
+        <p>PENDIDIKAN</p>
+    </div>
+    <Ul>
+        <li>2007 - 2013       SDN 2 Krobokan</li>
+        <li>2013 - 2016         SMPN 1 Kuta Utara</li>
+        <li>2016 - 2019         SMKN 1 Kuta </li>
+        <li>2019 - Sekarang     Universitas Udayana</li>
+    </Ul>
+    <hr>
+    <div id="container4">
+        <p>KONTAK</p>
+    </div>
+    <a href="https://www.instagram.com/lianawaisnayanti/">Instagram</a>
+    <hr>
+</body>
+</html> 
